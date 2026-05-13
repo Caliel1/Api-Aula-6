@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nome": "Notebook",
+    "preco": 3500,
+    "categoria": "Eletrônicos"
+  },
+  {
+    "id": 1778713778938,
+    "nome": "Monitor",
+    "preco": 1200,
+    "categoria": "Eletrônicos"
+  }
+]
